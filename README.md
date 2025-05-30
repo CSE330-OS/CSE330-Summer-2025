@@ -9,4 +9,5 @@ This repository contains multiple branches. Below is a list of available branche
 | Branch Name  | Description |
 |-------------|------------|
 | [project-1](https://github.com/CSE330-OS/CSE330-Summer-2025/tree/project-1) | Test scripts for Project-1:Virtual Machine and Linux |
-| [project-2](https://github.com/CSE330-OS/CSE330-Summer-2025/tree/project-2) | Test scripts for Project-2: Kernel Module and System Call |
+| [project-2](https://github.com/CSE330-OS/CSE330-Summer-2025/tree/project-2) | Test scripts for Project-2:Kernel Module and System Call |
+| [project-3](https://github.com/CSE330-OS/CSE330-Summer-2025/tree/project-3) | Test scripts for Project-3:Bounded buffer Producer Consumer | 
