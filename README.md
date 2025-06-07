@@ -2,7 +2,7 @@
 
 In this directory, there are two scripts available for students testing convenience.
 
-## [test_module.sh](https://github.com/visa-lab/CSE330-OS/blob/project-4/test_module.sh)
+## [test_module.sh](https://github.com/CSE330-OS/CSE330-Summer-2025/blob/project-3/test_module.sh)
 
 This script can be used to test the kernel module. It will do the following when provided the directory to your
 source code, arguments to pass as the values to your module parameters, and the numbers of regular and zombie
@@ -61,7 +61,7 @@ Expected output (from test case 3):
 [log]: Deleting user TestP4...
 ```
 
-## [test_zip_contents.sh](https://github.com/visa-lab/CSE330-OS/blob/project-4/test_zip_contents.sh)
+## [test_zip_contents.sh](https://github.com/CSE330-OS/CSE330-Summer-2025/blob/project-3/test_zip_contents.sh)
 
 This script is to be used to ensure the final submission adheres to the expected format specified in the project codument. It will do the following:
 
@@ -87,7 +87,7 @@ Expected output:
 [test_zip_contents]: Passed
 ```
 
-## [utils.sh](https://github.com/visa-lab/CSE330-OS/blob/project-4/utils.sh)
+## [utils.sh](https://github.com/CSE330-OS/CSE330-Summer-2025/blob/project-3/utils.sh)
 
 This script is not meant to be run directly, and only contains code that is used across both scripts mentioned above.
 - Please do not make any changes in provided test case code to pass the test cases.
