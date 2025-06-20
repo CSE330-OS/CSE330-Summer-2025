@@ -12,3 +12,4 @@ This repository contains multiple branches. Below is a list of available branche
 | [project-2](https://github.com/CSE330-OS/CSE330-Summer-2025/tree/project-2) | Test scripts for Project-2:Kernel Module and System Call |
 | [project-3](https://github.com/CSE330-OS/CSE330-Summer-2025/tree/project-3) | Test scripts for Project-3:Bounded buffer Producer Consumer | 
 | [project-4](https://github.com/CSE330-OS/CSE330-Summer-2025/tree/project-4) | Test scripts for Project-4:Memory Management |
+| [project-5](https://github.com/CSE330-OS/CSE330-Summer-2025/tree/project-5) | Test scripts for Project-5:USB Block Abstraction |
