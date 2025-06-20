@@ -1,0 +1,5 @@
+Testcase: write-variable
+[*] PASSED (iteration: 0) 
+-------------------------------------------------------------
+Parameters: BLOCKSIZE (512), ITERATIONS (1), OFFSET (0)
+[*] WRITE Tests Completed and Passed

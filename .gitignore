@@ -1,0 +1,13 @@
+*.o
+*.ko
+*.mod*
+Module*
+module*
+*.kmod*
+*.Module*
+
+testcases/*.txt
+testcases/test-read
+testcases/test-write
+testcases/*-large
+testcases/*-variable

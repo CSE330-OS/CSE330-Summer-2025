@@ -1,14 +1,13 @@
-# CSE330-Summer-2025
+## CSE 330 (Operating Systems) 
 
-This is a public repository to facilitate project development for CSE330 Operating system students.
+This is the public repository for Operating Systems taught in Spring 2025 by Adil Ahmad.
 
-### Repository Branches
+### Branch: The Block Abstraction
 
-This repository contains multiple branches. Below is a list of available branches:
+In this project, your task is to write a kernel module that allows a user program (i.e., our testcases) to directly access a virtual USB storage device using the block abstraction.
+Your kernel module should support both read and write operations of different block sizes, and at different offsets. Please refer to the project handout on Canvas for full details.
 
-| Branch Name  | Description |
-|-------------|------------|
-| [project-1](https://github.com/CSE330-OS/CSE330-Summer-2025/tree/project-1) | Test scripts for Project-1:Virtual Machine and Linux |
-| [project-2](https://github.com/CSE330-OS/CSE330-Summer-2025/tree/project-2) | Test scripts for Project-2:Kernel Module and System Call |
-| [project-3](https://github.com/CSE330-OS/CSE330-Summer-2025/tree/project-3) | Test scripts for Project-3:Bounded buffer Producer Consumer | 
-| [project-4](https://github.com/CSE330-OS/CSE330-Summer-2025/tree/project-4) | Test scripts for Project-4:Memory Management |
+
+#### Notes
+
+- The "annotated" folder contains more comments and some code to simplify this project.

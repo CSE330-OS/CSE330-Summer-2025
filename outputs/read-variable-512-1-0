@@ -1,0 +1,5 @@
+Testcase: read-variable
+[*] PASSED (iteration: 0) 
+-------------------------------------------------------------
+Parameters: BLOCKSIZE (512), ITERATIONS (1), OFFSET (0)
+[*] READ Tests Completed and Passed
